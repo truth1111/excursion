@@ -1,0 +1,20 @@
+#link {font-size:16px;
+   color: aquamarine;}
+h1 {font-family:Verdana;
+    text-align: center;
+    font-size:50px;
+    color: white;
+    font-weight:normal;}
+body, head {background-color: black;
+            text-align:center;}
+h2 {font-size:42px;
+  font-family:Verdana;
+  color:white;
+  font-weight:300;}
+p1 {color:gray;
+    font:family:Verdana;
+    font-size:21px;}
+.copyright {color:gray;
+    font-family:Verdana;
+    font-size:21px;
+    text-align:right;}
